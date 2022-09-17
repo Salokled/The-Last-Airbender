@@ -20,7 +20,7 @@ scanf ("%f", &nota4);
 media = (nota1+nota2+nota3+nota4)/4;
 printf("\n\nSua nota final é: %.2f", media);
 
-  if (media >= 7.0) {                                           
+if (media >= 7.0) {                                           
 printf ("\n\nAprovado por média"); 
 }
     
